@@ -18,7 +18,7 @@
         "sync-request": "^6.0.0",
         "system-registry": "^1.0.0",
         "uglify-es": "^3.3.9",
-        "uuid": "^3.2.1",
+        "uuid": "^3.4.0",
         "vm2": ">=3.9.19",
         "walk-sync": "^0.3.2"
     },
