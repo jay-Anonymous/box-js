@@ -7,7 +7,7 @@
         "xmldom": "*",
         "columnify": "*",
         "command-line-args": "^4.0.7",
-        "escodegen": "^1.9.1",
+        "escodegen": "^1.14.3",
         "global": "^4.4.0",
         "iconv-lite": "^0.4.23",
         "jschardet": "^1.6.0",
